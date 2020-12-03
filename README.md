@@ -1,3 +1,1 @@
-# TOWER-SEIGE-1
-
-by aarnika gour
+# tower seige 1
